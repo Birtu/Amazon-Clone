@@ -1,0 +1,13 @@
+.card_container{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -100px;
+     z-index: 50; 
+    /* background-color: white; */
+    width: 100%;
+}
+.carousel_container{
+    position: relative;
+    z-index: 100;
+}
